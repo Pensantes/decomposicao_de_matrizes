@@ -64,7 +64,7 @@ Um repositório para armazenar os algoritmos e teoria estudados no curso de fér
 
 ---
 
-# Autor
+# Autores
 
 <table>
   <tr>
