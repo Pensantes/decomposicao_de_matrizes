@@ -45,6 +45,7 @@ Um repositório para armazenar os algoritmos e teoria estudados no curso de fér
 
 1. Entre na pasta de Aulas
 2. Entre na pasta de Alguma Aula
+3. Lembre-se de instalar o numpy caso sua máquina ainda não tenha
 
 ---
 
@@ -79,6 +80,17 @@ Um repositório para armazenar os algoritmos e teoria estudados no curso de fér
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/gustavocolas-pessoal">
+        <img 
+          src="https://avatars.githubusercontent.com/u/284495799?s=400&v=4" 
+          width="120px" 
+          alt="Foto do Gustavo J. Colas no GitHub"
+          style="border-radius:50%; border:2px solid #ccc;"
+        /><br>
+        <b>Gustavo Junqueira Colas</b>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/PedroLucas-Sa">
         <img 
           src="https://avatars.githubusercontent.com/u/282565085?v=4&size=64" 
@@ -87,6 +99,17 @@ Um repositório para armazenar os algoritmos e teoria estudados no curso de fér
           style="border-radius:50%; border:2px solid #ccc;"
         /><br>
         <b>Pedro Lucas M. S. Sá</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ViniCutolo">
+        <img 
+          src="https://avatars.githubusercontent.com/u/271505502?v=4" 
+          width="120px" 
+          alt="Foto do Vinícius Cutolo no GitHub"
+          style="border-radius:50%; border:2px solid #ccc;"
+        /><br>
+        <b>Vinícius Marianno De Marque Cutolo</b>
       </a>
     </td>
   </tr>
